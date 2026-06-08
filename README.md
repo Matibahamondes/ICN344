@@ -8,10 +8,11 @@ Bienvenido al repositorio de **ICN344**. Aquí encontrarás todo el material, ap
 
 ## 📖 Tabla de Contenidos
 
-1. [Descripción](#-descripción)
-2. [Estructura del Repositorio](#-estructura-del-repositorio)
-3. [Instalación y Uso](#-instalación-y-uso)
-4. [Contacto](#-contacto)
+- [📚 ICN344 - GIO II](#-icn344---gio-ii)
+  - [📖 Tabla de Contenidos](#-tabla-de-contenidos)
+  - [🎯 Descripción](#-descripción)
+  - [🗂️ Estructura del Repositorio](#️-estructura-del-repositorio)
+  - [🚀 Instalación y Uso](#-instalación-y-uso)
 
 ---
 
@@ -32,3 +33,6 @@ Para trabajar con este material en tu computador local, sigue estos pasos:
    ```bash
    git clone [https://github.com/Matibahamondes/ICN344.git](https://github.com/Matibahamondes/ICN344.git)
    cd ICN344
+   }
+
+hola ∂ß
